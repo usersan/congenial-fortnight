@@ -19,3 +19,6 @@ https://github.com/usersan/papers/issues
 
 ## 6. 次に読むべき論文は？
 ```
+
+## arXive Vanity
+https://www.arxiv-vanity.com/
