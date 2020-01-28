@@ -22,3 +22,6 @@ https://github.com/usersan/papers/issues
 
 ## arXive Vanity
 https://www.arxiv-vanity.com/
+
+## 有名論文のリスト
+https://papers.readthedocs.io/en/latest/
